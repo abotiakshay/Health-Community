@@ -5,8 +5,10 @@ Users can post in the health community app, like, comment, and share posts. User
 ## APK FILE
 ## SCREENSHOTS
 <div style="display: flex; flex-direction: row;">>
-    <img src="images/aws-bootstrap.webp" width="250" />
-    <img src="images/git-hooks.webp" width="250" />
-    <img src="images/python-tab.webp" width="250" />
+    <img src="https://github.com/abotiakshay/Health-Community/blob/0a02318fe70c3177351121435e4ce327571b4011/screenshot/Screenshot_2023-07-18-16-10-35-910_com.gtappdevelopers.instagram.jpg" width="250" />
+    <img src="https://github.com/abotiakshay/Health-Community/blob/0a02318fe70c3177351121435e4ce327571b4011/screenshot/Screenshot_2023-07-18-16-15-43-015_com.gtappdevelopers.instagram.jpg" width="250" />
+    <img src="https://github.com/abotiakshay/Health-Community/blob/0a02318fe70c3177351121435e4ce327571b4011/screenshot/Screenshot_2023-07-18-16-14-24-281_com.gtappdevelopers.instagram.jpg" width="250" />
+     <img src="https://github.com/abotiakshay/Health-Community/blob/0a02318fe70c3177351121435e4ce327571b4011/screenshot/Screenshot_2023-07-18-16-17-45-296_com.gtappdevelopers.instagram.jpg" width="250" />
+    
 </div>
 
