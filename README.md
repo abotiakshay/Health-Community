@@ -3,6 +3,8 @@ Users can post in the health community app, like, comment, and share posts. User
 
 ## APK FILE
 
+["Apk File"](https://github.com/abotiakshay/Health-Community/blob/f386848db8457c2de33ee3796c3a888e525b7de8/app-debug.apk)
+
 ## FEATURES
 - Social Media App
 - Live Chat with other (Doctors, Hospitals or Friends))
